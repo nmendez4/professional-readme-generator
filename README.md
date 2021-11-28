@@ -24,7 +24,7 @@ In order to use this application, please download npm inquirer and node on your 
 This application can be downloaded from my github account or used on the users machine using VS code or any other coding software 
   
 ### Screenshots
-![Generated README.md file](N/A)
+![Generated README.md file] (./images/screen_shot
 
 
 ## Built With
